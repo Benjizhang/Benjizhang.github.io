@@ -1,6 +1,6 @@
 ---
 title: "A generalized continuous collision detection framework of polynomial trajectory for mobile robots in cluttered environments"
-abstract: "GCCD-PT: a continuous collision detection method that works in UAVs/AGVs/CDPRs. <br/><img src='/images/gccdpt.jpg'>"
+abstract: "GCCD-PT: a continuous collision detection method that works in UAVs/AGVs/CDPRs. <br/><img src='/images/publications/2022_gccdpt.jpg'>"
 permalink: /publication/2022_GCCDPT
 collection: publications
 date: 2022-07-19

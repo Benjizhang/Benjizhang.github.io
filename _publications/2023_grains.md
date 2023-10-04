@@ -1,6 +1,6 @@
 ---
 title: "GRAINS: Proximity Sensing of Objects in Granular Materials"
-abstract: "Detection of buried objects beneath granules in advance based on the study of proximity sensing. <br/><img src='/images/grains2.jpg'>"
+abstract: "Detection of buried objects beneath granules in advance based on the study of proximity sensing. <br/><img src='/images/publications/2023_grains.jpg'>"
 permalink: /publication/2023_grains
 collection: publications
 date: 2023-07-12
