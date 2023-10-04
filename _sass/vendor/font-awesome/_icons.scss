@@ -491,6 +491,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-github-square:before { content: fa-content($fa-var-github-square); }
 .#{$fa-css-prefix}-gitkraken:before { content: fa-content($fa-var-gitkraken); }
 .#{$fa-css-prefix}-gitlab:before { content: fa-content($fa-var-gitlab); }
+.#{$fa-css-prefix}-bilibili:before { content: fa-content($fa-var-bilibili); }
 .#{$fa-css-prefix}-gitter:before { content: fa-content($fa-var-gitter); }
 .#{$fa-css-prefix}-glass-martini:before { content: fa-content($fa-var-glass-martini); }
 .#{$fa-css-prefix}-glass-martini-alt:before { content: fa-content($fa-var-glass-martini-alt); }
