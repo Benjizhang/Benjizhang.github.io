@@ -1,6 +1,6 @@
 ---
 title: "Goats: Goal sampling adaptation for scooping with curriculum reinforcement learning"
-abstract: 'In this work, we first formulate the problem of robotic water scooping using goal-conditioned reinforcement learning. <br/><img src='/images/publications/2023_sensor.jpg'>'
+abstract: "In this work, we first formulate the problem of robotic water scooping using goal-conditioned reinforcement learning. <br/><img src='/images/publications/2023_sensor.jpg'>"
 permalink: /publication/2023_goats
 collection: publications
 date: 2023-10-03
