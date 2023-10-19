@@ -1,6 +1,6 @@
 ---
 title: "Efficient wrench-closure and interference-free conditions verification for cable-driven parallel robot trajectories using a ray-based method"
-abstract: "A ray-based method to check collision-free and wrench-closure conditions along the given polynomial paths for cable-driven parallel robots (CDPRs). <br/><img src='/images/publications/2019_ifcdpr.jpg'>"
+abstract: "A ray-based method to check interference-free condition (IFC) and wrench-closure condition (WCC) along the given polynomial paths for cable-driven parallel robots (CDPRs). <br/><img src='/images/publications/2019_ifcdpr.jpg'>"
 permalink: /publication/2019_ifcdpr
 collection: publications
 date: 2019-09-18
