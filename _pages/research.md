@@ -9,6 +9,8 @@ header:
 
 My academic research falls into three main areas.
 
+<img src='/images/research/research3.png'>
+
 <nbsp>
 
 {% include base_path %}
