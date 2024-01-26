@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ===
-I am a fourth-year PhD candidate at The University of Hong Kong (HKU) supervised by [Prof. Jia Pan](https://sites.google.com/site/panjia/). Currently, my research focuses on utilizing robotic proprioceptive and exteroceptive sensing to achieve recognition and manipulation of granular materials (GMs).
+I am a fourth-year PhD candidate at The University of Hong Kong (HKU) supervised by [Prof. Jia Pan](https://sites.google.com/site/panjia/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). Currently, my research focuses on utilizing robotic proprioceptive and exteroceptive sensing to achieve recognition and manipulation of granular materials (GMs).
 
 In addition, I have a wide range of research interests that involve the applications of serial, parallel, and mobile robots. My works include advancements in multi-robot system (AGVs) scheduling and control, path planning, collision detection for unmanned aerial vehicles (UAVs), as well as modeling for cable-driven parallel robots (CDPRs).
 
