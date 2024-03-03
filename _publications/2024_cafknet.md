@@ -6,6 +6,6 @@ collection: publications
 date: 2024-02-28
 link: 'https://www.bilibili.com/video/BV1kx42127Fq/?share_source=copy_web&vd_source=7ba41e1a6350222d9190e1ca84e54f9d'
 paperurl: 'https://arxiv.org/pdf/2402.18420.pdf'
-citation: '<u>Zeqing Zhang</u>, Linhan Yang, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>in Submission</i>.'
+citation: '<u>Zeqing Zhang*</u>, Linhan Yang*, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>in Submission</i>.'
 ---
 
