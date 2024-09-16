@@ -6,6 +6,6 @@ collection: publications
 date: 2024-02-28
 link: 'https://sites.google.com/view/cafknet/site'
 paperurl: 'https://arxiv.org/pdf/2402.18420.pdf'
-citation: '<u>Zeqing Zhang*</u>, Linhan Yang*, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>in Submission</i>.'
+citation: '<u>Zeqing Zhang*</u>, Linhan Yang*, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>Under review</i>.'
 ---
 
