@@ -5,6 +5,6 @@ permalink: /publication/2024_oneFling
 collection: publications
 date: 2024-09-16
 paperurl: 'https://arxiv.org/pdf/2406.14136'
-citation: 'Linhan Yang, Lei Yang, Haoran Sun, <u>Zeqing Zhang</u>, Haibin He, Fang Wan, Chaoyang Song, Jia Pan (2024). <br><i>The 16th International Workshop on the Algorithmic Foundations of Robotics Chicago, USA, October 7-9 2024</i>.'
+citation: 'Linhan Yang, Lei Yang, Haoran Sun, <u>Zeqing Zhang</u>, Haibin He, Fang Wan, Chaoyang Song, Jia Pan (2024). <br><i>The 16th International Workshop on the Algorithmic Foundations of Robotics. Chicago, USA, October 7-9 2024</i>.'
 ---
 
