@@ -6,6 +6,6 @@ collection: publications
 date: 2024-02-28
 link: 'https://sites.google.com/view/cafknet/site'
 paperurl: 'https://arxiv.org/pdf/2402.18420.pdf'
-citation: '<u>Zeqing Zhang*</u>, Linhan Yang*, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>Under review</i>.'
+citation: '<u>Zeqing Zhang*</u>, Linhan Yang*, Cong Sun, Weiwei Shang, Jia Pan (2024). <br><i>The 2024 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2024). Bangkok, Thailand, December 10-14 2024</i>.'
 ---
 
