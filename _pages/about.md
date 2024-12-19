@@ -10,11 +10,15 @@ redirect_from:
 
 Short Bio
 ===
-I obtain the PhD degree at The University of Hong Kong (HKU) supervised by [Prof. Jia Pan](https://sites.google.com/site/panjia/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). Currently, my research focuses on utilizing robotic proprioceptive and exteroceptive sensing to achieve recognition and manipulation of granular materials (GMs).
+I am Zhang Zeqing, currently undergoing postdoctoral training at The University of Hong Kong (HKU), collaborating closely with [Prof. Jia Pan](https://sites.google.com/site/panjia/) (HKU), [Prof. Guanhua Chen](https://ghchen.me/) (SUSTech), and [Prof. Weiwei Wan](https://wanweiwei07.github.io/) (Osaka University).
 
-In addition, I have a wide range of research interests that involve the applications of serial, parallel, and mobile robots. My works include advancements in multi-robot system (AGVs) scheduling and control, path planning, collision detection for unmanned aerial vehicles (UAVs), as well as modeling for cable-driven parallel robots (CDPRs).
+I earned my PhD degree from HKU, supervised by [Prof. Jia Pan](https://sites.google.com/site/panjia/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). 
 
-I worked as an intern in the RAL (Robotics and Autonomous Driving Lab) at [Baidu Research](http://research.baidu.com/) and as an algorithm engineer at [HikRobot](https://www.hikrobotics.com/en).
+My current research interests focus on using robotic proprioceptive and exteroceptive sensing for the perception and manipulation of soft bodies (e.g., garment) and granular media (e.g., sands). I primarily work with vision, touch, force sensing, and text modalities for handling these nonlinear materials.
+
+Additionally, I have diverse interests in applications involving serial robots, parallel robots, and mobile robots. My work includes planning and coordination for multi-robot systems (e.g., AGVs), collision detection for UAVs, and fundamental problems in cable-driven parallel robots (CDPRs).
+
+I previously interned at the Robotics and Autonomous Driving Lab (RAL) leaded by [Dr. Liangjun Zhang](https://www.cs.unc.edu/~zlj/) at [Baidu Research](http://research.baidu.com/) and worked as an algorithm engineer at [HikRobot](https://www.hikrobotics.com/en).
 
 ---
 
