@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ===
-I am Zhang Zeqing. I am currently a postdoctoral fellow at The University of Hong Kong (HKU), where I continue to pursue my academic journey in robotics.
+I am Zeqing (aka Benji) Zhang. I am currently a postdoctoral fellow at The University of Hong Kong (HKU), where I continue to pursue my academic journey in robotics.
 Prior to this, I completed my PhD at HKU under the distinguished supervision of [Prof. Jia Pan](https://sites.google.com/site/panjia/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), whose guidance has been instrumental in shaping my research trajectory.
 
 My current research interests focus on using robotic proprioceptive and exteroceptive sensing for the perception and manipulation of soft bodies (e.g., garments) and granular media (e.g., sands). I primarily work with vision, touch, force sensing, and text modalities to handle these nonlinear materials.
