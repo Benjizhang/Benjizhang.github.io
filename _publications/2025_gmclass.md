@@ -4,7 +4,7 @@ abstract: "This paper presents <i>GmClass</i>, a non-visual classifier that util
 permalink: /publication/2025_gmclass
 collection: publications
 date: 2025-05-22
-# paperurl: 'http://arxiv.org/abs/2412.02119'
+paperurl: 'https://ieeexplore.ieee.org/document/11018378'
 link: 'https://sites.google.com/view/gmwork2/ftlearning'
 citation: '<u>Zeqing Zhang</u>, Guanqi Chen, Wentao Chen, Ruixing Jia, Guanhua Chen, Liangjun Zhang, Jia Pan, Peng Zhou (2025). <br><i>IEEE Robotics and Automation Letters</i>.'
 ---
