@@ -6,6 +6,6 @@ collection: publications
 date: 2026-02-01
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0736584525001504'
 # link: 'https://sites.google.com/view/gmwork2/ftlearning'
-citation: 'Jiaming Qi, Liang Lu, Fangyuan Wang, Hoi-Yin Lee, David Navarro-Alarcon, <u>Zeqing Zhang</u>^#, Peng Zhou^# (2026). <br><i>Robotics and Computer-Integrated Manufacturing</i>.'
+citation: 'Jiaming Qi, Liang Lu, Fangyuan Wang, Hoi-Yin Lee, David Navarro-Alarcon, <u>Zeqing Zhang</u>^#^, Peng Zhou^#^ (2026). <br><i>Robotics and Computer-Integrated Manufacturing</i>.'
 ---
 
