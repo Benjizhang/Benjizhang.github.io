@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ===
-I am Zeqing (aka Benji) Zhang, an incoming Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/). Currently, I  am undergoing postdoctoral training at The University of Hong Kong (HKU), closely working with [Prof. Jia Pan](https://sites.google.com/site/panjia/).
+I am Zeqing (aka Benji) Zhang, an incoming Research Fellow at Nanyang Technological University (NTU), collaborating with [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/). Currently, I  am undergoing postdoctoral training at The University of Hong Kong (HKU), closely working with [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan).
 
 Prior to this, I completed my PhD at HKU under the distinguished supervision of [Prof. Jia Pan](https://sites.google.com/site/panjia/) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), whose guidance has been instrumental in shaping my research trajectory. 
 
