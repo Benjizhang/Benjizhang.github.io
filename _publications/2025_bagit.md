@@ -5,7 +5,7 @@ permalink: /publication/2025_bagit
 collection: publications
 date: 2025-12-22
 paperurl: 'https://arxiv.org/abs/2509.09484'
-# link: 'https://sites.google.com/view/gmwork2/ftlearning'
+link: 'https://www.youtube.com/watch?v=6JWjCOeTGiQ'
 citation: 'Peng Zhou, Jiaming Qi, Hongmin Wu, Chen Wang, Yizhou Chen, <u>Zeqing Zhang</u><sup>#</sup> (2025). <br><i>IEEE Robotics and Automation Letters</i>.'
 ---
 
