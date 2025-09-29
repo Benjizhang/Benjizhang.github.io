@@ -127,6 +127,9 @@
       {% if author.bilibili %}
         <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fa-brands fa-fw fa-bilibili" aria-hidden="true" style="padding-right: 0.8em;"></i>Bilibili</a></li>
       {% endif %}
+      {% if author.rednote %}
+        <li><a href="https://www.xiaohongshu.com/user/profile/{{ author.rednote }}"><i class="fa-brands fa-fw fa-rednote" aria-hidden="true" style="padding-right: 0.8em;"></i>Rednote</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
