@@ -6,6 +6,6 @@ collection: publications
 date: 2025-12-22
 paperurl: 'https://arxiv.org/abs/2509.09484'
 link: 'https://www.youtube.com/watch?v=6JWjCOeTGiQ'
-citation: 'Peng Zhou, Jiaming Qi, Hongmin Wu, Chen Wang, Yizhou Chen, <u>Zeqing Zhang</u><sup>#</sup> (2025). <br><i>IEEE Robotics and Automation Letters</i>. <br>IROS 2025 5th Workshop ROMADO <b>Best Poster Award</b> <a href="https://openreview.net/group?id=IEEE.org%2FIROS%2F2025%2FWorkshop%2FROMADO#tab-accept-best-poster-finalist">(Finalist)</a>'
+citation: 'Peng Zhou, Jiaming Qi, Hongmin Wu, Chen Wang, Yizhou Chen, <u>Zeqing Zhang</u><sup>#</sup> (2025). <br><i>IEEE Robotics and Automation Letters</i>. <br> 🆕 IROS 2025 5th Workshop ROMADO <b>Best Poster Award</b> <a href="https://openreview.net/group?id=IEEE.org%2FIROS%2F2025%2FWorkshop%2FROMADO#tab-accept-best-poster-finalist">(Finalist)</a>'
 ---
 
