@@ -6,6 +6,6 @@ collection: publications
 date: 2025-05-22
 paperurl: 'https://ieeexplore.ieee.org/document/11018378'
 link: 'https://sites.google.com/view/gmwork2/ftlearning'
-citation: '<u>Zeqing Zhang</u>, Guanqi Chen, Wentao Chen, Ruixing Jia, Guanhua Chen, Liangjun Zhang, Jia Pan, Peng Zhou (2025). <br><i>IEEE Robotics and Automation Letters</i>.'
+citation: '<u>Zeqing Zhang</u>, Guanqi Chen, Wentao Chen, Ruixing Jia, Guanhua Chen, Liangjun Zhang, Jia Pan, Peng Zhou (2025). <br><i>IEEE Robotics and Automation Letters</i>. <br> <b>ESI Highly Cited Paper</b>'
 ---
 
