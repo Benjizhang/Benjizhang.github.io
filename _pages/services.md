@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-* Editor / Associate Editor / Editorial Board
+* Journal Editor / Associate Editor / Editorial Board
   * [Robot Learning](https://www.elspub.com/journals/robot-learning/home), Young Editorial Board, 2025-Present.
 
 * Conference Committee Member, Conference Editorial Board 
