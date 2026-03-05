@@ -18,7 +18,7 @@ My current research interests focus on using robotic proprioceptive and exteroce
 
 Additionally, I have diverse interests in applications involving serial robots, parallel robots, and mobile robots. My early work includes planning and coordination for multi-robot systems of AGVs, collision detection for UAVs, and fundamental problems in parallel robots.
 
-I previously interned at the Robotics and Autonomous Driving Lab (RAL) at [Baidu Research](http://research.baidu.com/) and worked as an algorithm engineer at [HikRobot](https://www.hikrobotics.com/en). I visited the [Harada Lab](https://www.roboticmanipulation.org/english/) at Osaka University (2024), [Prof. Jiajun Wu](https://jiajunwu.com/#group)'s group at Stanford University (2025).
+I previously interned at the Robotics and Autonomous Driving Lab (RAL) at [Baidu Research](http://research.baidu.com/) and worked as an algorithm engineer at [HikRobot](https://www.hikrobotics.com/en). I visited the [Harada Lab](https://www.roboticmanipulation.org/english/) at Osaka University (2024) and [Prof. Jiajun Wu](https://jiajunwu.com/#group)'s group at Stanford University (2025).
 
 ---
 
