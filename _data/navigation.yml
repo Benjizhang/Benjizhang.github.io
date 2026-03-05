@@ -6,8 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "MyCFP"
+    url: /mycfp/
+  
   - title: "Services"
     url: /services/
+    
 
   # - title: "Teaching"
   #   url: /teaching/
