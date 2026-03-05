@@ -16,5 +16,5 @@ author_profile: true
 * Conference or Workshop Chair
   * The special session of [Multi-Modal Perception Fusion for Agentic Manipulation](https://2026.ieeecase.org/special-sessions/#session-13) of in CASE 2026, Session Chair, 2026.
   * The workshop of [Contact and Impact-aware Manipulation (CIM)](https://cim-workshop.github.io/) in IROS 2025, Organizer & Chair, 2025.
-  * The session of Automation I in ROBIO 2024, Session Chair, 2024.
+  * The session of [Automation I](https://ieee-robio.org/2024/program-overview/) in ROBIO 2024, Session Chair, 2024.
 
