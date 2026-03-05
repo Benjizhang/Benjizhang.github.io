@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "Call for Paper"
+title: "Services"
 permalink: /services/
 author_profile: true
 ---
 
-* Current Call for Paper
-  * [SPECIAL SESSION] [Multi-Modal Perception Fusion for Agentic Manipulation (code: 69h69)](https://2026.ieeecase.org/special-sessions/#session-13), 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE), <b>Deadline</b>: (Extended) 15th March, 2026.
+* Editor / Associate Editor / Editorial Board
+  * [Robot Learning](https://www.elspub.com/journals/robot-learning/home), Young Editorial Board, 2025-Present.
 
-* Previous Call for Paper
-  * [WORKSHOP] [Contact and Impact-aware Manipulation (CIM)](https://github.com/cim-workshop/cim-workshop.github.io), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, <del><b>Deadline</b>: 30 Sep, 2025</del>.
+* Conference Committee Member, Conference Editorial Board 
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Associate Editor, 2026.
+  * IEEE International Conference on Robotics and Biomimetics (ROBIO), Associate Editor, 2025.
+  * IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Associate Editor, 2024, 2025.
 
+* Conference or Workshop Chair
+  * The [Contact and Impact-aware Manipulation (CIM)](https://cim-workshop.github.io/) workshop in IROS 2025, First & Corresponding Organizer, 2025.
