@@ -15,7 +15,8 @@ author_profile: true
   * IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Associate Editor, 2024, 2025.
 
 * Conference or Workshop Chair
-  * The special session of [Multi-Modal Perception Fusion for Agentic Manipulation](https://2026.ieeecase.org/special-sessions/#session-13) of in CASE 2026, Session Chair, 2026.
+  <!-- * The special session of [Multi-Modal Perception Fusion for Agentic Manipulation](https://2026.ieeecase.org/special-sessions/#session-13) in CASE 2026, Session Chair, 2026. -->
+  * The special session of Embodied Intelligence and Autonomous Systems for Next-Generation Smart Cities in 20th IEEE International Conference on Control & Automation (ICCA), Session Chair, 2026.
   * The workshop of [Contact and Impact-aware Manipulation (CIM)](https://cim-workshop.github.io/) in IROS 2025, Organizer & Chair, 2025.
   * The session of [Automation I](https://ieee-robio.org/2024/program-overview/) in ROBIO 2024, Session Chair, 2024.
 
