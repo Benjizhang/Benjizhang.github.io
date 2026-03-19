@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Journal Editor / Associate Editor / Editorial Board
+  * [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l/), Associate Editor, 2026-Present.
   * [Robot Learning](https://www.elspub.com/journals/robot-learning/home), Young Editorial Board, 2025-Present.
 
 * Conference Committee Member / Editorial Board 
