@@ -24,4 +24,4 @@ I previously interned at the Robotics and Autonomous Driving Lab (RAL) at [Baidu
 
 <!-- <a href="https://info.flagcounter.com/6i5f"><img src="https://s01.flagcounter.com/count/6i5f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_8/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=oCDKoGbla3jaU8IwHSKKuDCaRypo2CcFiqcrU2b_CTo"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=CwELO8F4dYSmK6OZHhuGmmJH61NIfACDBW8WMkY-5bA&cl=ffffff&w=a"></script>
