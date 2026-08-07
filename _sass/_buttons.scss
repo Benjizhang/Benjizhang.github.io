@@ -123,6 +123,8 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
+  (wechat, #1aad19),
+  (email, $primary-color),
   (mastodon, $mastodon-color);
 
   @each $socialnetwork, $color in $social {
