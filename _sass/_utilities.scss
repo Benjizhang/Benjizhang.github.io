@@ -296,30 +296,23 @@ body:hover .visually-hidden button {
     color: $orcid-color;
   }
 
-  .fa-bilibili {
-    color: $bilibili-color;
-  }
 }
 
-.author__social-badge {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+.author__social-dot {
+  display: inline-block;
   width: 1.28571429em;
   margin-right: 1.5em;
-  font-size: 0.92em;
-  line-height: 1;
-  vertical-align: -0.08em;
+  text-align: center;
+  vertical-align: -0.02em;
 }
 
-.author__social-badge--rednote {
-  width: 1.15em;
-  height: 1.15em;
-  border-radius: 0.2em;
+.author__social-dot--rednote:before {
+  display: inline-block;
+  width: 0.72em;
+  height: 0.72em;
+  border-radius: 50%;
   background: $rednote-color;
-  color: #fff;
-  font-size: 0.78em;
-  font-weight: 700;
+  content: "";
 }
 
 
