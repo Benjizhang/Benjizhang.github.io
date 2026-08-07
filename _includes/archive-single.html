@@ -52,11 +52,10 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'books' %}
       {% if post.abstract %}
-        <details><summary>Highlights (click here)</summary>
-        <blockquote>
-        {{ post.abstract | markdownify }}
-        </blockquote>
-        </details>
+        <div class="archive__item-highlights">
+          <p class="archive__item-kicker">Highlights</p>
+          {{ post.abstract | markdownify }}
+        </div>
       {% endif %}
 
       {% if post.citation %}

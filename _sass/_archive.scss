@@ -55,6 +55,43 @@
   font-size: $type-size-6;
 }
 
+.archive__item-highlights {
+  margin: 0.75em 0 1em;
+  padding-left: 1em;
+  border-left: 3px solid mix(#fff, $primary-color, 45%);
+  font-size: $type-size-6;
+
+  p {
+    margin: 0 0 0.5em;
+  }
+
+  ol,
+  ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.75em;
+    padding-left: 1.25em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  img {
+    display: block;
+    max-width: 220px;
+    margin-top: 0.8em;
+    border-radius: $border-radius;
+  }
+}
+
+.archive__item-kicker {
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: $muted-text-color;
+}
+
 /* remove border*/
 .page__content {
 
