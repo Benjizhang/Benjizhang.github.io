@@ -89,7 +89,7 @@
   font-size: $type-size-7;
   font-weight: bold;
   text-transform: uppercase;
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
 }
 
 /* remove border*/
