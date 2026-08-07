@@ -10,7 +10,8 @@ abstract: |-
 permalink: /books/2026_GM_review
 collection: books
 date: 2026-08-07
-# paperurl: 'https://www.researchgate.net/publication/335896107_Efficient_Wrench-Closure_and_Interference_Free_Conditions_Verification_for_Cable-Driven_Parallel_Robot_Trajectories_Using_a_Ray-Based_Method'
+# link: 'https://'
+# paperurl: 'https://'
 citation: '<u>Zeqing Zhang</u>, Peng Zhou, Jia Pan, Chenguang Yang (2026). <br><i>Springer Nature</i>.'
 ---
 
