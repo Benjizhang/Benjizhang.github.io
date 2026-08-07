@@ -296,23 +296,9 @@ body:hover .visually-hidden button {
     color: $orcid-color;
   }
 
-}
-
-.author__social-dot {
-  display: inline-block;
-  width: 1.28571429em;
-  margin-right: 1.5em;
-  text-align: center;
-  vertical-align: -0.02em;
-}
-
-.author__social-dot--rednote:before {
-  display: inline-block;
-  width: 0.72em;
-  height: 0.72em;
-  border-radius: 50%;
-  background: $rednote-color;
-  content: "";
+  .fa-rednote {
+    color: $rednote-color;
+  }
 }
 
 
