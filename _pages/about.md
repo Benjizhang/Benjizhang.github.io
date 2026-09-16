@@ -20,7 +20,7 @@ Additionally, I have diverse interests in applications involving serial robots, 
 
 I previously interned at the Robotics and Autonomous Driving Lab (RAL) at [Baidu Research](http://research.baidu.com/) and worked as an algorithm engineer at [HikRobot](https://www.hikrobotics.com/en). I visited the [Harada Lab](https://www.roboticmanipulation.org/english/) at Osaka University (2024) and [Prof. Jiajun Wu](https://jiajunwu.com/#group)'s group at Stanford University (2025).
 
-I currently serve as the Associate Editor for IEEE Robotics and Automation Letters (RA-L) and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026.
+I currently serve as the Associate Editor for IEEE Robotics and Automation Letters (RA-L), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026 and IEEE International Conference on Robotics and Automation (ICRA) 2027.
 
 ---
 
