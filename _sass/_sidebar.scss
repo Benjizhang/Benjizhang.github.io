@@ -92,6 +92,7 @@
     @include breakpoint($large) {
       width: 175px;
       height: 175px;
+      transform: translateX(40px);
       padding: 5px;
       border: 1px solid $border-color;
     }
